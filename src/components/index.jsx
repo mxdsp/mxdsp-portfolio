@@ -1,0 +1,6 @@
+export About from './About'
+export App from './App'
+export Contact from './Contact'
+export Home from './Home'
+export Portfolio from './Portfolio'
+export Repo from './Repo'
